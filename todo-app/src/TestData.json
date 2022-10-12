@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "amountDone": 0,
+    "amountNeeded": 100,
+    "task": "Benchpress"
+  }, {
+    "id": 2,
+    "amountDone": 100,
+    "amountNeeded": 100,
+    "task": "Pullups"
+  }, {
+    "id": 3,
+    "amountDone": 0,
+    "amountNeeded": 100,
+    "task": "Pushups"
+  }, {
+    "id": 4,
+    "amountDone": 0,
+    "amountNeeded": 50,
+    "task": "Squats"
+  }, {
+    "id": 5,
+    "amountDone": 0,
+    "amountNeeded": 10,
+    "task": "Treadmill"
+  }, {
+    "id": 6,
+    "amountDone": 0,
+    "amountNeeded": 5,
+    "task": "Plank"
+  }, {
+    "id": 7,
+    "amountDone": 0,
+    "amountNeeded": 30,
+    "task": "Dumbell"
+  }]
