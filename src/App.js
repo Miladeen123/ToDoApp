@@ -5,8 +5,6 @@ import Header from "./Header";
 import ToDoList from "./todolist";
 import "./App.css";
 
-// test pull
-
 function App() {
   const [toDoList, setToDoList] = useState(data);
 
